@@ -47,14 +47,14 @@
 			<script src="js/modernizr.js"></script>
 		</head>
 		<body>
-		<div class="content-wrapper">
+		
       <!-- Content Header (Page header) -->
 
 
       <!-- Main content -->
-      <section class="content container-fluid">
+      
 			
-						<a href="login.php" style="margin-left: 40%;margin-top: 30%;width: 150px" class="btn btn-primary"><i class="fa fa-twitter fa-2x fa-spin" style="margin-right: 20%"></i><span style="font-size: 25px">Login</span> </button>
+						<a href="login.php" style="margin-left: 40%;margin-top: 30%;width: 40%" class="btn btn-primary"><i class="fa fa-twitter fa-2x fa-spin" style="margin-right: 20%"></i><span style="font-size: 25px">Login</span> </button>
 
 						</a>
 						</section>
