@@ -54,11 +54,11 @@
       <!-- Main content -->
       
 			
-						<a href="login.php" style="margin-left: 40%;margin-top: 30%;width: 40%" class="btn btn-primary"><i class="fa fa-twitter fa-2x fa-spin" style="margin-right: 20%"></i><span style="font-size: 25px">Login</span> </button>
+			<a href="login.php" style="margin-left: 10%;margin-top: 10%;width: 30%" class="btn btn-primary"><i class="fa fa-twitter fa-2x fa-spin" style="margin-right: 20%"></i><span style="font-size: 25px">Login</span> </button>
 
-						</a>
-						</section>
-		</div>	
+			</a>
+			
+		
 			<script src="js/jquery.js"></script>
 			<script src="js/foundation.min.js"></script>
 			<script>
